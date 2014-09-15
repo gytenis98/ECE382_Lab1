@@ -3,6 +3,8 @@ ECE382_Lab1
 
 ###Simple Calculator
 
+![Simple calculator](https://raw.githubusercontent.com/gytenis98/ECE382_Lab1/master/msp-exp430g2-e1281671410523.jpg?raw=true "Simple calculater")
+
 ##Objectives
 
 To create a simple calculater on the MSP430 board
@@ -69,3 +71,5 @@ A functionality --> 0 points (not done)
 
 ##Documentation
 I used the Dr. Coulston handouts from class as well as MSP430 family user's guide. Also, I used internet to find how to do jumps and other peoples programs to find out how to properly increment location.
+
+
