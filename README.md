@@ -11,14 +11,14 @@ To create a simple calculater on the MSP430 board
 
 ![Design chart](http://i61.tinypic.com/33xyio8.png?raw=true "Design chart")
 
-##Required Functionality
+##Required Functionality (done)
 
 •The input and output for the calculator will be in memory locations. The calculator operations and operands will be stored in ROM - any location in ROM is acceptable. The results of the calculations will be stored in RAM starting at 0x0200. Labels shall be used in the program to refer to the location of your instructions and results.
 •The input operands and output results will be positive integers between 0 and 255 (an unsigned byte).
 •Good coding standards (labels, .equ where appropriate) must be used throughout.
 
 
-##B Functionality
+##B Functionality (done)
 
 In addition to the Required Functionality, your program will meet the following requirement:
 •If a result exceeds 255, it is set to the maximum value of 255. If a result is less than 0, it is set to the minimum value of 0.
