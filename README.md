@@ -36,3 +36,7 @@ The MSP430G2553 that you're using does not have a hardware multiplier, so you'll
 There are a couple of ways to implement multiply - strive for the fastest possible implementation. Solutions that multiply in O(n) time will receive half points. Only solutions that multiply in O(log n) time will receive full points.
 
 O(n) means that the time it takes to reach a solution varies with the size of the input. O(log n) means that time to solvevaries with the log of the size of the input.
+
+##Debugging
+
+The main problem occured with incrementing stored values. I could not make it work at first. I looked at few examples in the internet as well as in other people works and finally made it work. 
