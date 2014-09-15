@@ -9,4 +9,4 @@ To create a simple calculater on the MSP430 board
 
 ##Design chart
 
-![alt tag](http://tinypic.com/r/33xyio8/8)
+![Design chart](http://tinypic.com/r/33xyio8/8?raw=true "Design chart")
