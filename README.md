@@ -56,3 +56,10 @@ Result: 0x22, 0x33, 0x00, 0x00, 0xCC
 Result: 0x22, 0x33, 0x44, 0xFF, 0x00, 0x00, 0x00, 0x02
 
 ###For "A Functionallity" did not work.
+
+
+##Demonstartions: 
+Prelab --> 5 points (On time)
+Required functionality --> 35 points (on time)
+B functionality   --> 10 points (on time)
+A functionality --> 0 points (not done)
