@@ -66,3 +66,6 @@ Required functionality --> 35 points (on time)
 B functionality   --> 10 points (on time)
 
 A functionality --> 0 points (not done)
+
+##Documentation
+I used the Dr. Coulston handouts from class as well as MSP430 family user's guide. Also, I used internet to find how to do jumps and other peoples programs to find out how to properly increment location.
